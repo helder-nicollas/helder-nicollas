@@ -5,6 +5,6 @@ Eu sou Helder Nicollas, estudante de Desenvolvimento de Sistemas no Instituto Fe
 
 
 <div style="display:flex;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Helder-programer&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helder-programer&layout=compact&theme=dracula"/>  
+  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=Helder-programer&show_icons=true&theme=dracula"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helder-programer&layout=compact&theme=dracula"/>  
 </div>
