@@ -4,7 +4,7 @@ Eu sou Helder Nicollas, estudante de Desenvolvimento de Sistemas no Instituto Fe
 
 
 
-<div style="display: flex;">
+<div style="display: inline_block;">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Helder-programer&show_icons=true&theme=dracula"/>
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helder-programer&layout=compact&theme=dracula"/>  
 </div>
