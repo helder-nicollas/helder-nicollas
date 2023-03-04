@@ -1,7 +1,7 @@
 ## Olá 👋
 
-Eu sou Helder Nicollas, estudante de Desenvolvimento de Sistemas no Instituto Federal de Alagoas. Atualmente estou estudando para desenvolvimento full stack Node Js, tendo, atualmente, conhecimento e prática sobre as tecnologias HTML, CSS, JavaScript, SCSS, React e Handlebars para Front-End e Express junto com ORM's como o Sequelize para Back-End com criação de projetos pessoais.
-
+Atualmente estudante de Desenvolvimento de Sistemas no Instituto Federal de Alagoas. Estou estudando e me atualizando para desenvolvimento full stack Node Js, tendo conhecimento e prática sobre as tecnologias HTML, CSS, JavaScript, SCSS, React e Handlebars para Front-End e Express junto com ORM's como o Sequelize para Back-End com criação de projetos pessoais.
+Além disso, sou prestador de serviços da Assembleia de Deus em Alagoas - SEDE com projeto em sistemas tecnológicos
 
 
 <diV>
