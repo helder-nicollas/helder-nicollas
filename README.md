@@ -4,7 +4,7 @@ Atualmente estudante de Desenvolvimento de Sistemas no Instituto Federal de Alag
 Além disso, sou prestador de serviços da Assembleia de Deus em Alagoas - SEDE com projeto em sistemas tecnológicos
 
 
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Helder-programer&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helder-programer&layout=compact&theme=dracula"/>  
 </div>
