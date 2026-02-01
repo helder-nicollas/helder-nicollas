@@ -1,12 +1,6 @@
 ## Olá, eu sou Helder Nicollas 👋
 
-Atualmente estudante de Desenvolvimento de Sistemas no Instituto Federal de Alagoas. Estou estudando e me atualizando para desenvolvimento full stack Node Js, tendo conhecimento e prática sobre as tecnologias HTML, CSS, JavaScript, SCSS, React e Handlebars para Front-End e Express junto com ORM's como o Sequelize para Back-End com criação de projetos pessoais.
-
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helder-nicollas&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helder-nicollas&layout=compact&theme=dracula"/>  
-</div>
+Atualmente, sou estudante de ciência da computação na Universidade Federal de Alagoas. Tenho focado em solidificar conhecimentos técnicos e fundamentais da engenharia de software para gerar projetos escaláveis e manuteníveis.
 <br/>
 <div align="center" alt="contacts">
   <a href="https://instagram.com/heldernicollasleao" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
